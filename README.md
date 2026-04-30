@@ -1,5 +1,5 @@
 - # 💫 About Me:
-Computer Science graduate with hands-on experience in full-stack web development. <br>Skilled in building responsive web applications.<br>Over 18 months of active commodity trading.<br>A dedicated and fast learner eager to contribute to a results-driven team and grow within the tech industry.
+Computer Science graduate with hands-on experience in front-End web development. <br>Skilled in building responsive web applications.<br>Over 18 months of active commodity trading.<br>A dedicated and fast learner eager to contribute to a results-driven team and grow within the tech industry.
 
 
 ## 🌐 Socials:
