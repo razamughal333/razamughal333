@@ -18,7 +18,8 @@ Computer Science graduate with hands-on experience in front-End web development.
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 # 📊 GitHub Stats:
-<br/>
+![](https://github-readme-stats.shion.dev/api?username=razamughal333&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=razamughal333&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=razamughal333&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
