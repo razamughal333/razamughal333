@@ -1,8 +1,8 @@
-- # 💫 About Me:
+- #  About Me:
 Computer Science graduate with hands-on experience in front-End web development. <br>Skilled in building responsive web UI.<br>Over 18 months of active commodity trading.<br>A dedicated and fast learner eager to contribute to a results-driven team and grow within the tech industry.
 
 
-## 🌐 Socials:
+##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Raza333) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raza_mughal_333) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raza-ahmed333) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RazaMughal_333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:razahmedmughal@gmail.com) 
 
 # Tech Stack:<br>Done With:
@@ -17,9 +17,7 @@ Computer Science graduate with hands-on experience in front-End web development.
 ![Langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=razamughal333&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=razamughal333&theme=codeSTACKr&hide_border=false)<br/>
+#  Most Used Languages:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=razamughal333&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
