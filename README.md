@@ -17,11 +17,6 @@ Computer Science graduate with hands-on experience in front-End web development.
 ![Langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=razamughal333&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
