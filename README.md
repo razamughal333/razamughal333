@@ -1,24 +1,52 @@
-#  About Me:
-Computer Science graduate with hands-on experience in front-End web development. <br>Skilled in building responsive web UI.<br>Over 18 months of active commodity trading.<br>A dedicated and fast learner eager to contribute to a results-driven team and grow within the tech industry.
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000080,50:191970,100:0047AB&text=Asma%20Khan&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Competitive%20Programmer&descAlignY=62"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=0047AB&center=true&vCenter=true&width=900&lines=BS+Computer+Science+Student+at+FAST+University;Artificial+Intelligence+%7C+Machine+Learning;Competitive+Programmer+%7C+ICPC+Regionalist;Hackathon+Winner;Always+Learning+New+Technologies"/> <br><a href="mailto:asmakh1052@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a><a href="https://www.linkedin.com/in/asma-khan-28a552349"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a><a href="https://github.com/Asmakhan427"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a><a href="https://asmakhan-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a><br> <br> <img src="https://komarev.com/ghpvc/?username=Asmakhan427&style=for-the-badge&color=0047AB&label=PROFILE+VIEWS"/></div>
+About Me
+Computer Science undergraduate at FAST – National University of Computer & Emerging Sciences (FAST-NUCES), Pakistan.
+
+Passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. Interests include algorithmic problem-solving, hackathons, and building practical solutions for real-world challenges.
+
+Tech Arsenal
+<div align="center">
+💻 Programming Languages & Web Development
+<p> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,bootstrap,mysql"/> </p>
+https://img.shields.io/badge/NASM-000080?style=flat-square
+https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white
+
+🤖 Artificial Intelligence & Data Science
+<p> <img src="https://skillicons.dev/icons?i=python,tensorflow"/> </p>
+https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white
+https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white
+https://img.shields.io/badge/Matplotlib-11557C?style=flat-square
+https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat-square
+
+🛠️ Databases, Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> </p>
+https://img.shields.io/badge/Oracle_11g_XE-F80000?style=flat-square&logo=oracle&logoColor=white
+https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square
+https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white
+https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white
+
+</div>
+Featured Projects
+Project	Description
+❤️ CardioGuard AI	ML-based heart disease prediction system developed during FrostByte Hackathon.
+🎮 Atari Breakout (x86 Assembly)	Classic Atari Breakout game in x86 Assembly (NASM).
+🧠 Neural Assembly Pattern Learning	Simulation implementing Assembly Calculus framework for visual pattern learning.
+Hackathons & Competitions
+Competition	Achievement
+🏆 FrostByte Hackathon	Winner – CardioGuard AI among 150+ teams
+💻 ICPC Regional	Top 200 teams out of 1,500+
+🧩 Harvard Puzzle Day 2025	Winner – Solved 10/10 puzzles
+🌍 International Hackathons	Participated in 5+ events against 3,000+ developers
+🎯 CALICO (UC Berkeley)	Top 30% of 800+ participants
+GitHub Statistics
+<div align="center"><img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Asmakhan427&theme=github-dark-blue&hide_border=true&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&background=0D1117&stroke=2563EB"/>
 
 
-##  Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Raza333) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raza_mughal_333) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raza-ahmed333) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RazaMughal_333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:razahmedmughal@gmail.com) 
 
-# Tech Stack:<br>Done With:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss--v4-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
-# Next in List: <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-7c3aed?style=for-the-badge&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-06b6d4?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7c3aed?style=for-the-badge&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-#  Most Used Languages:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=razamughal333&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</div>
+🤝 Let's Connect
+<div align="center"><a href="mailto:asmakh1052@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a><a href="https://www.linkedin.com/in/asma-khan-28a552349"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a><a href="https://github.com/Asmakhan427"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a><a href="https://asmakhan-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a></div>
+<div align="center">
+⭐ "Building intelligent software, one project at a time."
+</div><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:000080,100:0047AB&height=120&section=footer"/></div>
