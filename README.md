@@ -62,9 +62,9 @@ Passionate about **AI-powered web apps**, **automation**, and **SaaS products**.
 
 </div>
 
----
 
-## 📈 GitHub Statistics
+
+## GitHub Statistics
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=razamughal333&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -77,7 +77,7 @@ Passionate about **AI-powered web apps**, **automation**, and **SaaS products**.
 
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="mailto:your-email@gmail.com">
