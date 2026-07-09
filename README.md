@@ -23,29 +23,24 @@
   <img src="https://komarev.com/ghpvc/?username=razamughal333&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </div>
 
----
 
-## 👨‍💻 About Me
+##  About Me
 
 Self-taught **Frontend Developer** based in **Rawalpindi, Pakistan**, actively building toward full-stack MERN development.
 
-Passionate about **AI-powered web apps**, **automation**, and **SaaS products**. I love turning ideas into real, working products — from a Gemini API chatbot to interactive React apps.
+Passionate about **AI-powered web apps**, **automation**, and **SaaS products**. I love turning ideas into real.
 
-- 🌱 Currently learning: **React → TypeScript → Node.js → MongoDB**
-- 🤖 Built a **Gemini API-powered chatbot** integrated into my live portfolio
-- 🎯 Goal: Land **remote work with foreign companies** while building SaaS products
 - 📍 Based in **Rawalpindi / Islamabad, Pakistan**
 
----
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
 ### 💻 Languages & Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript"/>
 </p>
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -58,9 +53,6 @@ Passionate about **AI-powered web apps**, **automation**, and **SaaS products**.
   <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-
 ### 📚 Currently Learning
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -70,18 +62,6 @@ Passionate about **AI-powered web apps**, **automation**, and **SaaS products**.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🤖 **Gemini Chatbot** | AI-powered chatbot using Google's Gemini API, live on my portfolio with HTTP referrer security |
-| 🎨 **Figma to Tailwind** | Pixel-perfect conversion of a Figma design to a fully responsive Tailwind CSS layout |
-| 🎮 **Tic-Tac-Toe** | Classic game built with vanilla JavaScript and DOM manipulation |
-| 🪨 **Rock Paper Scissors** | Interactive game with score tracking, built in pure JS |
-| 🎨 **BG Color Changer** | React + Vite app to dynamically change background colors using useState |
 
 ---
 
@@ -119,6 +99,9 @@ Passionate about **AI-powered web apps**, **automation**, and **SaaS products**.
   <br/>
   ⭐ <i>"Building the web today, automating the future tomorrow."</i>
 </div>
+
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
