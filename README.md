@@ -1,52 +1,125 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000080,50:191970,100:0047AB&text=Asma%20Khan&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Competitive%20Programmer&descAlignY=62"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=0047AB&center=true&vCenter=true&width=900&lines=BS+Computer+Science+Student+at+FAST+University;Artificial+Intelligence+%7C+Machine+Learning;Competitive+Programmer+%7C+ICPC+Regionalist;Hackathon+Winner;Always+Learning+New+Technologies"/> <br><a href="mailto:asmakh1052@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a><a href="https://www.linkedin.com/in/asma-khan-28a552349"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a><a href="https://github.com/Asmakhan427"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a><a href="https://asmakhan-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a><br> <br> <img src="https://komarev.com/ghpvc/?username=Asmakhan427&style=for-the-badge&color=0047AB&label=PROFILE+VIEWS"/></div>
-About Me
-Computer Science undergraduate at FAST – National University of Computer & Emerging Sciences (FAST-NUCES), Pakistan.
-
-Passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. Interests include algorithmic problem-solving, hackathons, and building practical solutions for real-world challenges.
-
-Tech Arsenal
 <div align="center">
-💻 Programming Languages & Web Development
-<p> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,bootstrap,mysql"/> </p>
-https://img.shields.io/badge/NASM-000080?style=flat-square
-https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Raza%20Ahmed&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Learner%20|%20AI%20Enthusiast&descAlignY=62"/>
 
-🤖 Artificial Intelligence & Data Science
-<p> <img src="https://skillicons.dev/icons?i=python,tensorflow"/> </p>
-https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white
-https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white
-https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white
-https://img.shields.io/badge/Matplotlib-11557C?style=flat-square
-https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat-square
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=a78bfa&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+MERN+Stack+Learner;Building+AI-Powered+Web+Apps;Targeting+Remote+Work+%7C+Rawalpindi%2C+Pakistan;Always+Learning+%7C+Always+Building"/>
 
-🛠️ Databases, Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> </p>
-https://img.shields.io/badge/Oracle_11g_XE-F80000?style=flat-square&logo=oracle&logoColor=white
-https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square
-https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white
-https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white
+  <br/>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raza-ahmed333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/razamughal333">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://razamughal333.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=razamughal333&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Self-taught **Frontend Developer** based in **Rawalpindi, Pakistan**, actively building toward full-stack MERN development.
+
+Passionate about **AI-powered web apps**, **automation**, and **SaaS products**. I love turning ideas into real, working products — from a Gemini API chatbot to interactive React apps.
+
+- 🌱 Currently learning: **React → TypeScript → Node.js → MongoDB**
+- 🤖 Built a **Gemini API-powered chatbot** integrated into my live portfolio
+- 🎯 Goal: Land **remote work with foreign companies** while building SaaS products
+- 📍 Based in **Rawalpindi / Islamabad, Pakistan**
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages & Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python"/>
+</p>
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM_Manipulation-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### 📚 Currently Learning
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 </div>
-Featured Projects
-Project	Description
-❤️ CardioGuard AI	ML-based heart disease prediction system developed during FrostByte Hackathon.
-🎮 Atari Breakout (x86 Assembly)	Classic Atari Breakout game in x86 Assembly (NASM).
-🧠 Neural Assembly Pattern Learning	Simulation implementing Assembly Calculus framework for visual pattern learning.
-Hackathons & Competitions
-Competition	Achievement
-🏆 FrostByte Hackathon	Winner – CardioGuard AI among 150+ teams
-💻 ICPC Regional	Top 200 teams out of 1,500+
-🧩 Harvard Puzzle Day 2025	Winner – Solved 10/10 puzzles
-🌍 International Hackathons	Participated in 5+ events against 3,000+ developers
-🎯 CALICO (UC Berkeley)	Top 30% of 800+ participants
-GitHub Statistics
-<div align="center"><img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Asmakhan427&theme=github-dark-blue&hide_border=true&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&background=0D1117&stroke=2563EB"/>
 
+---
 
+## 🚀 Featured Projects
 
-</div>
-🤝 Let's Connect
-<div align="center"><a href="mailto:asmakh1052@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a><a href="https://www.linkedin.com/in/asma-khan-28a552349"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a><a href="https://github.com/Asmakhan427"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a><a href="https://asmakhan-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a></div>
+| Project | Description |
+|--------|-------------|
+| 🤖 **Gemini Chatbot** | AI-powered chatbot using Google's Gemini API, live on my portfolio with HTTP referrer security |
+| 🎨 **Figma to Tailwind** | Pixel-perfect conversion of a Figma design to a fully responsive Tailwind CSS layout |
+| 🎮 **Tic-Tac-Toe** | Classic game built with vanilla JavaScript and DOM manipulation |
+| 🪨 **Rock Paper Scissors** | Interactive game with score tracking, built in pure JS |
+| 🎨 **BG Color Changer** | React + Vite app to dynamically change background colors using useState |
+
+---
+
+## 📈 GitHub Statistics
+
 <div align="center">
-⭐ "Building intelligent software, one project at a time."
-</div><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:000080,100:0047AB&height=120&section=footer"/></div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=razamughal333&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=razamughal333&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razamughal333&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raza-ahmed333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/razamughal333">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://razamughal333.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <br/>
+  ⭐ <i>"Building the web today, automating the future tomorrow."</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</div>
