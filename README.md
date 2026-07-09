@@ -3,6 +3,12 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=a78bfa&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+MERN+Stack+Learner;Building+AI-Powered+Web+Apps;Targeting+Remote+Work+%7C+Rawalpindi%2C+Pakistan;Always+Learning+%7C+Always+Building"/>
 
+<br/>
+
+<a href="https://rankistan.dev">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Frazamughal333&style=for-the-badge"/>
+  </a>
+
   <br/>
 
   <a href="mailto:your-email@gmail.com">
