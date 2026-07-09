@@ -43,7 +43,7 @@ Passionate about **AI-powered web apps**, **automation**, and **SaaS products**.
 
 <div align="center">
 
-### 💻 Languages & Frontend
+### 💻 Languages & Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript"/>
@@ -59,13 +59,6 @@ Passionate about **AI-powered web apps**, **automation**, and **SaaS products**.
   <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-### 📚 Currently Learning
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 </div>
 
@@ -102,10 +95,11 @@ Passionate about **AI-powered web apps**, **automation**, and **SaaS products**.
 </div>
 
 <div align="center">
-  <br/>
-  ⭐ <i>"Building the web today, automating the future tomorrow."</i>
-</div>
+<br/>
 
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</div>
 
 
 
